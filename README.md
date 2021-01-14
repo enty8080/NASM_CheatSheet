@@ -11,3 +11,9 @@ Some good stuff for beginners.
 | `jle`       | **j**ump if **l**ess or **e**qual.    |
 | `jl`        | **j**ump if **l**ess.                 |
 | `jge`       | **j**ump if **g**reater or **e**qual. |
+
+```nasm
+cmp eax, 1
+je one
+jne two
+```
