@@ -1,5 +1,6 @@
-# NASM_CheatSheet
-Some good stuff for beginners.
+# NASM Assembly
+
+Some samples and tutorial for NASM assembly language.
 
 ## Jumping
 
